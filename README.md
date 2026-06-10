@@ -114,13 +114,7 @@ location not set select delivery location >
                 
             </th>
             
- <table>
-      <th>
-   <image src="https://rukminim2.flixcart.com/image/1536/1536/xif0q/bottle/e/v/z/1000-premium-quality-motivational-bottle-with-times-to-drink-and-original-imahk6ayxcgmzqnh.jpeg?q=90"  width="200" height="200"
-      </th>
-     </table>
-        
-        
+ \
         
         
         
