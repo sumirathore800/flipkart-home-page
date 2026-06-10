@@ -112,12 +112,10 @@ location not set select delivery location >
                 <image src="https://rukminim2.flixcart.com/image/612/612/xif0q/bottle/p/d/h/1000-rush-1l-stainless-steel-metallic-copper-coloured-water-original-imah6vpx27jjrff9.jpeg?q=70"
                 width="200" height="200"
                 
-            </th>
-            
+
  
         
         
         
         
-        </html>
-        </body>
+        
